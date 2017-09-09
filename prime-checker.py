@@ -9,10 +9,8 @@ def prime_check(num):
         else:
             for i in range(2, num):
                 if num % i == 0:
-                    
                     return False
-                
-                return True
+            return True
                 
 
 #print(prime_check(num))
