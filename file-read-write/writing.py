@@ -1,4 +1,4 @@
-'''
+"""
 import time
 filename = "file.txt"
 with open(filename, 'w') as file:
@@ -7,7 +7,7 @@ with open(filename, 'w') as file:
     print(check)
     file.close()
 
-'''
+"""
 with open('test1.txt', 'w') as file:
     file.write('Testing')
     file.close()

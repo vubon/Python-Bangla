@@ -1,4 +1,4 @@
-with open('file-read-write/user.txt', 'r') as file:
+with open('user.txt', 'r') as file:
     text = file.read().splitlines()
     username = ""
     password = ""

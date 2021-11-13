@@ -7,14 +7,14 @@ def addition():
     print("Two number addition: ", total)
 
 
-def subtration():
+def subtraction():
     sub = a - b
     print("Two number sub: ", sub)
 
 
 def main():
     addition()
-    subtration()
+    subtraction()
 
 
 main()

@@ -1,4 +1,4 @@
-with open('user.txt','r') as user:
+with open('user.txt', 'r') as user:
     text = user.read().splitlines()
     username = ''
     password = ''
