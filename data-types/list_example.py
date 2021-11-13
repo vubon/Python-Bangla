@@ -1,4 +1,4 @@
-item = [1, 2,4,3,5,6,7,8]
+item = [1, 2, 4, 3, 5, 6, 7, 8]
 print(type(item))
 
 item2 = ["A", "C", "B"]
@@ -24,5 +24,5 @@ resize.remove(1)
 print(resize)
 
 print("...................")
-a = {1,3,4,5}
+a = {1, 3, 4, 5}
 print(type(a))
